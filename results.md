@@ -1,3 +1,4 @@
+Calculated using - team win rate overall
 Loaded 400 matches from cache.
 Xtreme Gaming: 31/55 wins (Win Rate: 0.564)
 BB Team: 5/13 wins (Win Rate: 0.385)
