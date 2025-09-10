@@ -1,0 +1,3 @@
+.env
+venv/
+dota2_stratz_match_data.csv
